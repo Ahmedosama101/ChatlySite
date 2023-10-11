@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ChatlySite/static/css/main.fddb428b.css",
+    "main.js": "/ChatlySite/static/js/main.e9f43269.js",
+    "static/media/blog04.png": "/ChatlySite/static/media/blog04.a30e235ee2bde739fec2.png",
+    "static/media/blog02.png": "/ChatlySite/static/media/blog02.044f22a9e690efa282ae.png",
+    "static/media/blog03.png": "/ChatlySite/static/media/blog03.000e3ef18dbf929650de.png",
+    "static/media/blog05.png": "/ChatlySite/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog01.png": "/ChatlySite/static/media/blog01.9e3277e48576312d1a97.png",
+    "static/media/phone.jpg": "/ChatlySite/static/media/phone.e10e09e5c3a42ab772b4.jpg",
+    "static/media/blob.svg": "/ChatlySite/static/media/blob.d7bb134430319877c6612ded9ffba4e6.svg",
+    "static/media/set.png": "/ChatlySite/static/media/set.e6e708b4a20ef44837fd.png",
+    "static/media/reg.png": "/ChatlySite/static/media/reg.ea2db74885202ec1e76e.png",
+    "static/media/publish.png": "/ChatlySite/static/media/publish.87d48c2c88d87c0c1c3e.png",
+    "static/media/chatly_logo.png": "/ChatlySite/static/media/chatly_logo.75414443297b2028e8bb.png",
+    "index.html": "/ChatlySite/index.html",
+    "static/media/quoute.svg": "/ChatlySite/static/media/quoute.93d6d0c27d59221c3cacd51d13d03a2d.svg",
+    "main.fddb428b.css.map": "/ChatlySite/static/css/main.fddb428b.css.map",
+    "main.e9f43269.js.map": "/ChatlySite/static/js/main.e9f43269.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fddb428b.css",
+    "static/js/main.e9f43269.js"
+  ]
+}
